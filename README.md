@@ -12,7 +12,7 @@
 ![image](https://github.com/yizZhang0421/LED_digit_recognize/raw/master/readme_image/2.jpg)
 ![image](https://github.com/yizZhang0421/LED_digit_recognize/raw/master/readme_image/6.jpg)
 ![image](https://github.com/yizZhang0421/LED_digit_recognize/raw/master/readme_image/9.jpg)
-根據其像素判斷出數字。</br>
+抓出輪廓並根據其像素判斷出數字。</br>
 </br>
 ![image](https://github.com/yizZhang0421/LED_digit_recognize/raw/master/readme_image/finish.jpg)
 最終結果再做一些段落分析和字串處理就可以得到結果。</br>
