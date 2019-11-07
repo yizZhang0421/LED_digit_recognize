@@ -4,7 +4,6 @@
 <h3>作法</h3>
 
 ![image](https://github.com/yizZhang0421/LED_digit_recognize/raw/master/readme_image/origin.jpg)
-
 根據設備特徵切出螢幕部分。</br>
 </br>
 ![image](https://github.com/yizZhang0421/LED_digit_recognize/raw/master/readme_image/denoise.jpg)
